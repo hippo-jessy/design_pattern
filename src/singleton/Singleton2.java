@@ -1,8 +1,6 @@
 package singleton;
 
 /**
- * Created by hippo on 3/13/17.
- * <p>
  * This is a lazy-initialized and non-thread safe implementation of Singleton design pattern.
  */
 

@@ -1,7 +1,7 @@
 package singleton;
 
 /**
- * Created by hippo on 3/13/17.
+ * This is an eager
  */
 public class Singleton6 {
 }
